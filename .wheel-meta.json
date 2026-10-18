@@ -1,0 +1,22 @@
+{
+  "wheel_id": 416,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-105",
+  "project": "unfair-dismissal-lawyers-sydney-cost-guide-3b8b3dc124966a316d90",
+  "parent_t1_ref": "unfairdismissallawyersaustralia-com-153",
+  "node_role": "feeder",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney cost guide",
+  "intended_url": "http://unfair-dismissal-lawyers-sydney-cost-guide-3b8b3dc124966a316d90.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "342e60e52c97ff0d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/unfairdismissallawyersaustralia-com-153/",
+      "anchor": "https://sitesau.github.io/unfairdismissallawyersaustralia-com-153/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
